@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-notes-manager-29153-29207/notes_backend"
+}
